@@ -1,0 +1,4 @@
+onebite-react-v2/
+node_modules/
+package-lock.json
+.env
