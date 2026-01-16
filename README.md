@@ -18,7 +18,7 @@
 | Section 02 | JavaScript 심화 | ✅ 완료 (2026.01.10.) |
 | Section 03 | Node.js 기초 | ✅ 완료 (2026.01.10.) |
 | Section 04 | React.js 개론 | ✅ 완료 (2026.01.10.) |
-| Section 05 | React.js 입문 | 🔄 진행 중 |
+| Section 05 | React.js 입문 | ✅ 완료 (2026.01.16.) |
 | Section 06 | 프로젝트1. 카운터 앱 | 📋 예정 |
 | Section 07 | 라이프사이클 | 📋 예정 |
 | Section 08 | 프로젝트2. 투두리스트 | 📋 예정 |
@@ -28,4 +28,4 @@
 | Section 12 | 프로젝트3. 감정 일기장 | 📋 예정 |
 | Section 13 | 마치면서 | 📋 예정 |
 
-**현재 진도**: Section 05 - React.js 입문
+**현재 진도**: Section 06 - 프로젝트1. 카운터 앱
